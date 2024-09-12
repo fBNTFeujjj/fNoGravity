@@ -1,0 +1,19 @@
+#███████╗██╗   ██╗████████╗ ██████╗ ███████╗██╗  ██╗ ██████╗ ██████╗ 
+#██╔════╝██║   ██║╚══██╔══╝██╔═══██╗██╔════╝██║  ██║██╔═══██╗██╔══██╗
+#█████╗  ██║   ██║   ██║   ██║   ██║███████╗███████║██║   ██║██████╔╝
+#██╔══╝  ██║   ██║   ██║   ██║   ██║╚════██║██╔══██║██║   ██║██╔═══╝ 
+#██║     ╚██████╔╝   ██║   ╚██████╔╝███████║██║  ██║╚██████╔╝██║     
+#╚═╝      ╚═════╝    ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     
+#discord.gg/EPKcucew5z
+#discord.gg/https://discord.gg/GQAwq5uAwv
+
+sand: true
+gravel: false
+
+worlds:
+  - Factions
+  - Minage # Ajoutez autant de monde que vous le souhaitez.
+
+# FALSE = la gravité sera activée pour ce block.
+# TRUE = la gravité ne sera pas activée pour ce block.
+# WORLDS = les mondes affectés par ces changements.
